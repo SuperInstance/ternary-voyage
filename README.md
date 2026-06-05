@@ -87,3 +87,12 @@ Part of the SuperInstance ternary crate family. Works with `ternary-mesh` (netwo
 ## License
 
 MIT
+
+## See Also
+- **ternary-navigator** — related fleet coordination
+- **ternary-compass** — related fleet coordination
+- **ternary-harbor** — related fleet coordination
+- **ternary-anchor** — related fleet coordination
+- **ternary-beacon** — related fleet coordination
+- **ternary-observatory** — related fleet coordination
+
