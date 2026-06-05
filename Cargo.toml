@@ -1,0 +1,6 @@
+[package]
+name = "ternary-voyage"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Long-duration mission planning and execution with ternary progress tracking"
